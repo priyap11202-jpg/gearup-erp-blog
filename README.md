@@ -4,7 +4,7 @@ Welcome to the **ERP Blog Repository** — a collection of articles, guides, and
 
 ---
 
-## 📖 About This Repository
+## About This Repository
 
 This repo contains blog posts and Markdown content that explain:
 
