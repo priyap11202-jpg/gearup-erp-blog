@@ -53,7 +53,7 @@ This makes cloud ERP ideal for remote teams, distributed businesses, and compani
 ---
 
 ## Real Example: Gear Up Technology ERP  
-One of the leading ERP providers in the UAE, [Gear Up Technology](https://gear-up.ae/enterprise-resource-planning-software),Abu Dhabi offers **custom ERP solutions** built around each client’s specific workflow.  
+One of the leading ERP providers in the UAE,Gear Up Technology [ERP Software](https://gear-up.ae/enterprise-resource-planning-software),Abu Dhabi offers **custom ERP solutions** built around each client’s specific workflow.  
 
 Their ERP systems can integrate finance, HR, CRM, and inventory in just **two weeks**, giving businesses full control and measurable results faster.  
 
