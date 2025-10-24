@@ -14,3 +14,4 @@ This repo contains blog posts and Markdown content that explain:
 - Real-world examples, including **Gear Up Technology in Abu Dhabi**
 - Common ERP questions (FAQs)
 - Best practices for implementing ERP in 2025 and beyond
+- Visit [ERP Software Abu dhabi](https://gear-up.ae/)
